@@ -26,5 +26,12 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/sumin post/index.html",
+    "href": "posts/sumin post/index.html",
+    "title": "Sumin's first post",
+    "section": "",
+    "text": "This is sumin's first post!"
   }
 ]
