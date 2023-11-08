@@ -1,0 +1,14 @@
+---
+title: "Sumin's first post"
+author: "Sumin Hong"
+date: "2023-11-08"
+categories: [analysis]
+---
+
+Sumin's first post
+
+![](sumin.jpeg)
+
+## 홍수민 첫 포스트
+
+안녕하세요, 홍수민 첫 포스트입니다.
