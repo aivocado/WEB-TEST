@@ -1,0 +1,14 @@
+{
+  "hash": "991dddea0403a6daf59dbb7f9996e7bd",
+  "result": {
+    "markdown": "---\ntitle: \"Donggeon_LIM\"\nauthor: \"DG_Lim\"\ndate: \"2023-11-08\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n![](image.jpeg)\nThis is a post with executable code.\nwriter : Donggeon\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n::: {.cell}\n\n```{.python .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n2\n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
