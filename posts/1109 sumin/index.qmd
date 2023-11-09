@@ -1,0 +1,13 @@
+---
+title: "1109 Sumin's post"
+author: "Sumin Hong"
+date: "2023-11-09"
+categories: [news, analysis]
+---
+
+This is Sumin's post at 1109.
+
+![](imoge.jpeg)
+
+## Title: 1109 Sumin
+- Testing website...
