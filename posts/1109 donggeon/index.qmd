@@ -1,11 +1,14 @@
 ---
 title: "Donggeon_LIM"
 author: "DG_Lim"
-date: "2023-11-08"
+date: "2023-11-09"
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "image.jpeg"
 ---
+test
+
 ![](image.jpeg)
+
 This is a post with executable code.
 writer : Donggeon
 ```{r}
