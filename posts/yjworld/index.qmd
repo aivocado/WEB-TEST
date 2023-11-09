@@ -1,0 +1,15 @@
+---
+title: "YuJeong's second post"
+author: "Yu Jeong"
+date: "2023-11-08"
+categories: [new, analysis]
+---
+
+YuJeong's second post
+
+![](human.jpeg)
+
+## 고유정 포스트
+# full today
+
+Artificial Intelligence is an interesting part of learning.
